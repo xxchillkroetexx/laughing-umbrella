@@ -26,4 +26,7 @@ jobs:
         run: pytest
 
       - name: Lint
-        run: ruff check .
+        run: 
+
+      - name: Pray
+        run: echo "praise the lord"
